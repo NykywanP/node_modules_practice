@@ -1,0 +1,1 @@
+const favoriteFoods = ['Hot Wings', 'Pizza', 'Potpie'];
